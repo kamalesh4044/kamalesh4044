@@ -28,11 +28,16 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
-<h2>🎯 ACTIVE MISSIONS (Projects)</h2>
-
-### 💥 SkillWarz FPS
-> **[Currently in Development]**
-> A high-performance, competitive-grade browser-based First-Person Shooter. Built with custom physics, bullet tracers, and lag-compensated multiplayer synchronization.
+<h2>🎮 LIVE SERVERS (Play Now!)</h2>
+<p>
+  <a href="https://multiplayer-fps-game.onrender.com">
+    <img src="https://img.shields.io/badge/PLAY_NOW-SkillWarz_FPS-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://void-runner-seven.vercel.app">
+    <img src="https://img.shields.io/badge/PLAY_NOW-Void_Runner-FF4500?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
@@ -50,18 +55,6 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
-
-<h2>🛡️ THE ARSENAL (Top Repositories)</h2>
-  
-  <!-- Add your best repos here! Replace YOUR_REPO_2 with your actual repository names -->
-  <a href="https://github.com/kamalesh4044/multiplayer-fps-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh4044&repo=multiplayer-fps-game&bg_color=0D1117&title_color=FF4500&text_color=B3B3B3&icon_color=FFD700&border_color=FF4500" />
-  </a>
-  <a href="https://github.com/kamalesh4044/void-runner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh4044&repo=kamalesh4044&bg_color=0D1117&title_color=FF4500&text_color=B3B3B3&icon_color=FFD700&border_color=FF4500" />
-  </a>
-
-<br><br>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:FF4500&height=100&section=footer&text=INITIALIZING_NEXT_MATCH...&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%"/>
