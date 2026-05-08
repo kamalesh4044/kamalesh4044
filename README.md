@@ -1,171 +1,172 @@
 ````md
-<!-- ========================================= -->
-<!--                HERO GIF                  -->
-<!-- ========================================= -->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Rka2Q2b3JhM2R5aWc2bDdxZmF4OXQxOW5nY3VkMnM5ZXA2a3JhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/6d/fe/31/6dfe31b7a4e1c0f8b9a1d6b2d8a8c4c7.gif" width="100%" />
 </p>
 
-<!-- ========================================= -->
-<!--              CYBER HEADER                -->
-<!-- ========================================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=HEY+I'M+YOUR_NAME;FULL+STACK+ENGINEER;AI+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE+WITH+CODE" />
-</h1>
-
-<!-- ========================================= -->
-<!--               GLASS BADGES               -->
-<!-- ========================================= -->
+<h1 align="center">KAMALESH</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7C3AED&labelColor=111827"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=06B6D4&labelColor=111827"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=EC4899"/>
+  <b>Full Stack Engineer</b> • <b>AI Systems Builder</b> • <b>Multiplayer Architecture</b>
 </p>
 
-<!-- ========================================= -->
-<!--             TERMINAL INTRO               -->
-<!-- ========================================= -->
-
-<div align="center">
-
-```bash
-> Initializing Developer Profile...
-
-Name        :: YOUR_NAME
-Role        :: Full Stack Developer
-Focus       :: Web Apps • Multiplayer Systems • AI Tools
-Location    :: India
-Status      :: Building Cool Stuff Daily
-````
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kamalesh4044?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=kamalesh4044&color=blueviolet&style=flat"/>
+</p>
 
 ---
 
-# ⚡ About Me
+## /usr/kamalesh/profile
+
+```console
+> booting developer profile...
+
+Name        : Kamalesh
+Role        : Software Engineer
+Focus       : Full Stack Systems + Realtime Applications
+Stack       : TypeScript • React • Node.js • Multiplayer Networking
+Status      : Building next-gen browser experiences
+
+> system ready
+````
+
+---
+
+## About Me
 
 ```yaml
-Developer: YOUR_NAME
-Specialization:
-  - Full Stack Development
-  - Multiplayer Game Systems
-  - AI Powered Applications
-  - Scalable Backend Architectures
+class Developer:
+  
+  name: "Kamalesh"
 
-Current Mission:
-  Building high-performance digital experiences
-  with modern web technologies.
+  current_focus:
+    - Realtime Multiplayer Systems
+    - Browser Based FPS Games
+    - AI Integrated Web Applications
+    - High Performance UI/UX
 
-Philosophy:
-  "Code should feel fast, clean, and futuristic."
+  philosophy:
+    "Great products feel invisible.
+     Fast. Clean. Fluid."
+
+  mindset:
+    "Build things people remember."
 ```
 
 ---
 
-# 🚀 Featured Project
+## Current Build
+
+# 🎮 SKILLWARZ
+
+A competitive browser-based FPS game engineered for speed, responsiveness, and scalable realtime combat systems.
+
+### Core Features
+
+* Low latency multiplayer networking
+* Custom movement physics
+* Realtime synchronization
+* Competitive gameplay systems
+* Modern rendering pipeline
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ENGINE-Custom-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MULTIPLAYER-Realtime-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-In%20Development-black?style=for-the-badge"/>
+</p>
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,vite,mongodb,git,github,vscode&perline=5"/>
+
+</p>
+
+---
+
+## Engineering Philosophy
 
 <div align="center">
 
-## 🎮 Velocity Arena
-
-### Competitive browser-based multiplayer FPS game
-
-Real-time synchronization • Physics engine • Fast networking • Custom combat systems
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Engine-Custom-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multiplayer-Realtime-cyan?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-</p>
-
----
-
-# 🧠 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,vscode&perline=7" />
-</p>
-
----
-
-# 🛠 Development Environment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows"/>
-  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell"/>
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=node.js"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🏆 Achievement Zone
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 🌌 Currently Exploring
-
-<div align="center">
-
-| Technology                      | Progress   |
-| ------------------------------- | ---------- |
-| Advanced Multiplayer Networking | ██████████ |
-| AI Integrations                 | ████████░░ |
-| Scalable System Design          | █████████░ |
-| WebGPU Experiments              | ██████░░░░ |
+| Principle            | Description                                  |
+| -------------------- | -------------------------------------------- |
+| Performance First    | Fast interfaces create memorable experiences |
+| Simplicity Wins      | Clean systems scale better                   |
+| Build Real Products  | Solve problems that matter                   |
+| Iterate Aggressively | Ship > Perfect                               |
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalesh4044&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
 
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalesh4044&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</p>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesh4044&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## Open Source
+
+<div align="center">
+
+| Project         | Description                       |
+| --------------- | --------------------------------- |
+| SkillWarz       | Browser-based multiplayer FPS     |
+| AI Utilities    | Smart automation tools            |
+| Web Experiments | High performance frontend systems |
+
+</div>
+
+---
+
+## Dev Environment
+
+```yaml
+Editor: VS Code
+OS: Windows
+Runtime: Node.js
+Design: Figma
+Version Control: Git + GitHub
+```
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://github.com/kamalesh4044">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,100:06B6D4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=2"/>
+
+### "Code. Iterate. Evolve."
 
 </p>
 ```
