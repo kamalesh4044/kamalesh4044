@@ -30,6 +30,8 @@
 
 <h2>🎮 LIVE SERVERS (Play Now!)</h2>
 <p>
+  <a herf="https://velocity-io.onrender.com">
+    <img src="https://img.shields.io/badge/Velocity_FPS-FF4500?style=for-the-badge&logo=vercel&logoColor=white"/>
   <a href="https://multiplayer-fps-game.onrender.com">
     <img src="https://img.shields.io/badge/PLAY_NOW-SkillWarz_FPS-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
